@@ -81,3 +81,16 @@ h3 {
 .navegacion__enlace:hover {
     color: var(--secundario);
 }
+
+/* footer */
+.footer {
+    background-color: var(--primarioOscuro);
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+.footer__texto {
+    text-align: center;
+    color: var(--blanco);
+    font-family: var(--fuentePrincipal);
+    font-size: 1.8rem;
+}
