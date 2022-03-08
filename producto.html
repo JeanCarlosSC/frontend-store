@@ -26,21 +26,22 @@
         <h1>React JS</h1>
         <div class="camisa">
             <img class="camisa__imagen" src="/img/3.jpg" alt="Imagen del producto">
-        </div>
-        <div class="camisa__contenido">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos sed laborum, nesciunt possimus est similique mollitia id itaque sequi error aliquid enim veniam magnam temporibus reiciendis, quo eligendi reprehenderit architecto!</p>
 
-            <form class="formulario">
-                <select name="" id="">
-                    <option value="" disabled selected>Select size</option>
-                    <option value="">S</option>
-                    <option value="">M</option>
-                    <option value="">L</option>
-                    <option value="">XL</option>
-                </select>
-                <input type="number" placeholder="Cantidad" min="1">
-                <input type="submit" value="Add to cart">
-            </form>
+            <div class="camisa__contenido">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos sed laborum, nesciunt possimus est similique mollitia id itaque sequi error aliquid enim veniam magnam temporibus reiciendis, quo eligendi reprehenderit architecto!</p>
+    
+                <form class="formulario">
+                    <select class="formulario__campo">
+                        <option disabled selected>Select size</option>
+                        <option>S</option>
+                        <option>M</option>
+                        <option>L</option>
+                        <option>XL</option>
+                    </select>
+                    <input class="formulario__campo" type="number" placeholder="Cantidad" min="1">
+                    <input class="formulario__submit" type="submit" value="Add to cart">
+                </form>
+            </div>
         </div>
     </main>
 
