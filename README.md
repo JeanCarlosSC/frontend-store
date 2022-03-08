@@ -2,5 +2,5 @@
 🐱‍👤 Basic fronted store.
 
 ### Credits
-🧔 Modified by <a href="https://github.com/JeanCarlosSC" target="blank">JeanCarlosSC</a>.</br>
+🧔 Modified by <a href="https://github.com/JeanCarlosSC" target="_blank" rel="noopener noreferrer">JeanCarlosSC</a>.</br>
 📚 This project was based on the project taken from the course <i>"Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL"</i>.
